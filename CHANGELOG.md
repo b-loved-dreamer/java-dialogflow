@@ -1,5 +1,26 @@
 # Changelog
 
+## [3.0.0](https://www.github.com/googleapis/java-dialogflow/compare/v2.6.2...v3.0.0) (2021-03-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove resource_reference for invisible resources (#483)
+
+### Features
+
+* **v2beta1:** remote MixedAudio from ResponseMessage ([#469](https://www.github.com/googleapis/java-dialogflow/issues/469)) ([b111739](https://www.github.com/googleapis/java-dialogflow/commit/b1117395748b501ef7c504a58a556d607f1b668a))
+
+
+### Bug Fixes
+
+* remove resource_reference for invisible resources ([#483](https://www.github.com/googleapis/java-dialogflow/issues/483)) ([33aa424](https://www.github.com/googleapis/java-dialogflow/commit/33aa424ef5fe5ac10785aed13e863f2382f53c66))
+
+
+### Documentation
+
+* fix broken link in doc string ([33aa424](https://www.github.com/googleapis/java-dialogflow/commit/33aa424ef5fe5ac10785aed13e863f2382f53c66))
+
 ### [2.6.2](https://www.github.com/googleapis/java-dialogflow/compare/v2.6.1...v2.6.2) (2021-03-15)
 
 
